@@ -1,3 +1,7 @@
 name = "hwtro"
 compatibility_date = "2025-06-11"
 main = "_worker.js"
+
+[[kv_namespaces]]
+binding = "KV"
+id = "c18c58a0b1c94709bbe08770c0f752d8"
